@@ -1,3 +1,8 @@
+# Ignore Files
+.DS_STORE
+# Ignore Folders
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
